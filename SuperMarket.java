@@ -53,13 +53,6 @@ public class SuperMarket extends Frame implements ActionListener {
         customer.setBackground(Color.yellow);
         customer.setForeground(Color.red);
 
-//        jScrollPane1 = new ScrollPane();
-//        jTextArea1 = new TextArea();
-//        jTextArea1.setColumns(500);
-//        jTextArea1.setRows(500);
-//        jTextArea1.setFont(myFont);
-//        jScrollPane1.add(jTextArea1);
-
         add(admin);
         add(customer);
         add(head);
