@@ -2,11 +2,11 @@ package smarket;
 
 import java.awt.*;
 import java.awt.event.*;
-//import java.sql.*;
+import java.sql.*;
 import javax.swing.*;
-//import net.proteanit.sql.DbUtils;
-//import static smarket.ProductMenu.driver;
-//import net.proteanit.sql.DbUtils;
+import net.proteanit.sql.DbUtils;
+import static smarket.ProductMenu.driver;
+import net.proteanit.sql.DbUtils;
 
 public class SuperMarket extends Frame implements ActionListener {
 
